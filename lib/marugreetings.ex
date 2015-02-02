@@ -1,0 +1,2 @@
+defmodule Marugreetings do
+end
